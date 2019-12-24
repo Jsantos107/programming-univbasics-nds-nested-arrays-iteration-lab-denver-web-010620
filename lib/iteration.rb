@@ -9,7 +9,6 @@ def join_ingredients(src)
   food=[ ["cheese", "no cheese"], ["pineapple", "pepperoni"]
   puts ('I love my pizza with' + food[0] + "and"+ food[1])
 end
-end
 
 def find_greater_pair(src)
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
